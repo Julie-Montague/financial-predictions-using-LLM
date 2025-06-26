@@ -29,8 +29,6 @@ class Properties:
                 # 'us-equities',
                 # 'technology-sector']#Can change for specific sectors class in the future
 
-    
-    
     outputMode = "Output_prod"
     outputPath = f"{outputMode}/{calc_date}/"
     allstockOutput = f"{outputPath}/search"
