@@ -3,7 +3,7 @@ import os
 from openai import OpenAI
 
 class Properties:
-    client = OpenAI(api_key="")
+    #client = OpenAI(api_key= #add key#)
 
     #today = datetime.datetime.today()
     #today = pd.to_datetime("2024-12-01")
